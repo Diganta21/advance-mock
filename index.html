@@ -1699,17 +1699,19 @@
      URL mode: upload JSON files and configure them below. Use ?exam=ssc-cgl to select a test.
      Without ?exam=, defaultTestId is loaded. No arbitrary URL can be supplied by visitors.
      Inline mode: edit githubExamConfig below. -->
+
 <script id="developerTestSettings" type="application/json">
 {
-  "mode": "inline",
-  "defaultTestId": "ssc-cgl",
+  "mode": "url",
+  "defaultTestId": "ssc-cgl-1",
   "tests": {
-    "ssc-cgl": "tests/ssc-cgl.json",
-    "railway-ntpc": "tests/railway-ntpc.json",
-    "bank-clerk": "tests/bank-clerk.json"
+    "ssc-cgl-1": "tests/ssc-cgl-1.json",
+    "railway-ntpc-1": "tests/railway-ntpc-1.json",
+    "bank-clerk-1": "tests/bank-clerk-1.json"
   }
 }
 </script>
+
 
 <!-- INLINE QUESTION BANK: Used when developerTestSettings.mode is "inline". -->
 <script id="githubExamConfig" type="application/json">
