@@ -1,113 +1,1408 @@
 {
-  "title": "SSC CGL Practice Mock Test 1",
-  "durationMinutes": 20,
-  "positiveMarks": 2,
-  "negativeMarks": 0.5,
+  "title": "Rakshak Sachivalya 26 September 2021 \u2014 Unverified Question Bank",
+  "durationMinutes": 120,
+  "positiveMarks": 1,
+  "negativeMarks": 0.25,
   "questions": [
     {
-      "id": "M01",
-      "subject": "Mathematics",
-      "q": "Calculate \\(\\frac{3}{4}+\\frac{5}{8}\\).",
+      "id": "Q001",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 1 \u2014 Locate question 1 and its four printed options on the page image.",
+      "image": "images/page-03.jpg",
       "opts": [
-        "\\(\\frac{11}{8}\\)",
-        "\\(\\frac{8}{12}\\)",
-        "\\(\\frac{7}{8}\\)",
-        "\\(\\frac{9}{8}\\)"
+        "A",
+        "B",
+        "C",
+        "D"
       ],
-      "correct": "A",
-      "explanation": "\\(\\frac{6}{8}+\\frac{5}{8}=\\frac{11}{8}\\)."
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
     },
     {
-      "id": "M02",
-      "subject": "Mathematics",
-      "q": "Find \\(\\sqrt{196}\\).",
+      "id": "Q002",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 2 \u2014 Locate question 2 and its four printed options on the page image.",
+      "image": "images/page-03.jpg",
       "opts": [
-        "12",
-        "13",
-        "14",
-        "16"
+        "A",
+        "B",
+        "C",
+        "D"
       ],
-      "correct": "C",
-      "explanation": "\\(14^2=196\\)."
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
     },
     {
-      "id": "M03",
-      "subject": "Mathematics",
-      "q": "What is 25% of 360?",
+      "id": "Q003",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 3 \u2014 Locate question 3 and its four printed options on the page image.",
+      "image": "images/page-03.jpg",
       "opts": [
-        "80",
-        "85",
-        "90",
-        "95"
+        "A",
+        "B",
+        "C",
+        "D"
       ],
-      "correct": "C",
-      "explanation": "360 × 25/100 = 90."
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
     },
     {
-      "id": "M04",
-      "subject": "Mathematics",
-      "q": "Solve \\(2x+7=19\\).",
+      "id": "Q004",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 4 \u2014 Locate question 4 and its four printed options on the page image.",
+      "image": "images/page-03.jpg",
       "opts": [
-        "5",
-        "6",
-        "7",
-        "8"
+        "A",
+        "B",
+        "C",
+        "D"
       ],
-      "correct": "B",
-      "explanation": "\\(2x=12\\), so \\(x=6\\)."
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
     },
     {
-      "id": "R01",
-      "subject": "Reasoning",
-      "q": "Find the next number: 3, 6, 12, 24, ?",
+      "id": "Q005",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 5 \u2014 Locate question 5 and its four printed options on the page image.",
+      "image": "images/page-03.jpg",
       "opts": [
-        "36",
-        "42",
-        "48",
-        "54"
+        "A",
+        "B",
+        "C",
+        "D"
       ],
-      "correct": "C",
-      "explanation": "Each term is twice the preceding term."
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
     },
     {
-      "id": "R02",
-      "subject": "Reasoning",
-      "q": "If CAT is coded as DBU, how is DOG coded?",
+      "id": "Q006",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 6 \u2014 Locate question 6 and its four printed options on the page image.",
+      "image": "images/page-03.jpg",
       "opts": [
-        "EPH",
-        "ENH",
-        "FPH",
-        "EPG"
+        "A",
+        "B",
+        "C",
+        "D"
       ],
-      "correct": "A",
-      "explanation": "Each letter is shifted forward by one."
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
     },
     {
-      "id": "E01",
-      "subject": "English",
-      "q": "Choose the synonym of “Abundant”.",
+      "id": "Q007",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 7 \u2014 Locate question 7 and its four printed options on the page image.",
+      "image": "images/page-03.jpg",
       "opts": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Limited"
+        "A",
+        "B",
+        "C",
+        "D"
       ],
-      "correct": "B",
-      "explanation": "Abundant means plentiful."
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
     },
     {
-      "id": "E02",
-      "subject": "English",
-      "q": "Choose the correctly spelled word.",
+      "id": "Q008",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 8 \u2014 Locate question 8 and its four printed options on the page image.",
+      "image": "images/page-03.jpg",
       "opts": [
-        "Accomodation",
-        "Accommodation",
-        "Acommodation",
-        "Accommadation"
+        "A",
+        "B",
+        "C",
+        "D"
       ],
-      "correct": "B",
-      "explanation": "The correct spelling is Accommodation."
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q009",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 9 \u2014 Locate question 9 and its four printed options on the page image.",
+      "image": "images/page-03.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q010",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 10 \u2014 Locate question 10 and its four printed options on the page image.",
+      "image": "images/page-03.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q011",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 11 \u2014 Locate question 11 and its four printed options on the page image.",
+      "image": "images/page-03.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q012",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 12 \u2014 Locate question 12 and its four printed options on the page image.",
+      "image": "images/page-03.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q013",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 13 \u2014 Locate question 13 and its four printed options on the page image.",
+      "image": "images/page-03.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q014",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 14 \u2014 Locate question 14 and its four printed options on the page image.",
+      "image": "images/page-03.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q015",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 15 \u2014 Locate question 15 and its four printed options on the page image.",
+      "image": "images/page-03.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q016",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 16 \u2014 Locate question 16 and its four printed options on the page image.",
+      "image": "images/page-03.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q017",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 17 \u2014 Locate question 17 and its four printed options on the page image.",
+      "image": "images/page-04.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q018",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 18 \u2014 Locate question 18 and its four printed options on the page image.",
+      "image": "images/page-04.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q019",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 19 \u2014 Locate question 19 and its four printed options on the page image.",
+      "image": "images/page-04.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q020",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 20 \u2014 Locate question 20 and its four printed options on the page image.",
+      "image": "images/page-04.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q021",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 21 \u2014 Locate question 21 and its four printed options on the page image.",
+      "image": "images/page-04.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q022",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 22 \u2014 Locate question 22 and its four printed options on the page image.",
+      "image": "images/page-04.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q023",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 23 \u2014 Locate question 23 and its four printed options on the page image.",
+      "image": "images/page-04.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q024",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 24 \u2014 Locate question 24 and its four printed options on the page image.",
+      "image": "images/page-04.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q025",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 25 \u2014 Locate question 25 and its four printed options on the page image.",
+      "image": "images/page-04.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q026",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 26 \u2014 Locate question 26 and its four printed options on the page image.",
+      "image": "images/page-05.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q027",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 27 \u2014 Locate question 27 and its four printed options on the page image.",
+      "image": "images/page-05.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q028",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 28 \u2014 Locate question 28 and its four printed options on the page image.",
+      "image": "images/page-05.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q029",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 29 \u2014 Locate question 29 and its four printed options on the page image.",
+      "image": "images/page-05.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q030",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 30 \u2014 Locate question 30 and its four printed options on the page image.",
+      "image": "images/page-05.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q031",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 31 \u2014 Locate question 31 and its four printed options on the page image.",
+      "image": "images/page-05.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q032",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 32 \u2014 Locate question 32 and its four printed options on the page image.",
+      "image": "images/page-05.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q033",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 33 \u2014 Locate question 33 and its four printed options on the page image.",
+      "image": "images/page-05.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q034",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 34 \u2014 Locate question 34 and its four printed options on the page image.",
+      "image": "images/page-06.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q035",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 35 \u2014 Locate question 35 and its four printed options on the page image.",
+      "image": "images/page-06.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q036",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 36 \u2014 Locate question 36 and its four printed options on the page image.",
+      "image": "images/page-06.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q037",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 37 \u2014 Locate question 37 and its four printed options on the page image.",
+      "image": "images/page-06.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q038",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 38 \u2014 Locate question 38 and its four printed options on the page image.",
+      "image": "images/page-06.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q039",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 39 \u2014 Locate question 39 and its four printed options on the page image.",
+      "image": "images/page-06.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q040",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 40 \u2014 Locate question 40 and its four printed options on the page image.",
+      "image": "images/page-06.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q041",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 41 \u2014 Locate question 41 and its four printed options on the page image.",
+      "image": "images/page-06.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q042",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 42 \u2014 Locate question 42 and its four printed options on the page image.",
+      "image": "images/page-07.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q043",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 43 \u2014 Locate question 43 and its four printed options on the page image.",
+      "image": "images/page-07.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q044",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 44 \u2014 Locate question 44 and its four printed options on the page image.",
+      "image": "images/page-07.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q045",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 45 \u2014 Locate question 45 and its four printed options on the page image.",
+      "image": "images/page-07.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q046",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 46 \u2014 Locate question 46 and its four printed options on the page image.",
+      "image": "images/page-07.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q047",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 47 \u2014 Locate question 47 and its four printed options on the page image.",
+      "image": "images/page-07.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q048",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 48 \u2014 Locate question 48 and its four printed options on the page image.",
+      "image": "images/page-07.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q049",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 49 \u2014 Locate question 49 and its four printed options on the page image.",
+      "image": "images/page-07.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q050",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 50 \u2014 Locate question 50 and its four printed options on the page image.",
+      "image": "images/page-08.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q051",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 51 \u2014 Locate question 51 and its four printed options on the page image.",
+      "image": "images/page-08.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q052",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 52 \u2014 Locate question 52 and its four printed options on the page image.",
+      "image": "images/page-08.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q053",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 53 \u2014 Locate question 53 and its four printed options on the page image.",
+      "image": "images/page-08.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q054",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 54 \u2014 Locate question 54 and its four printed options on the page image.",
+      "image": "images/page-08.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q055",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 55 \u2014 Locate question 55 and its four printed options on the page image.",
+      "image": "images/page-08.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q056",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 56 \u2014 Locate question 56 and its four printed options on the page image.",
+      "image": "images/page-08.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q057",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 57 \u2014 Locate question 57 and its four printed options on the page image.",
+      "image": "images/page-08.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q058",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 58 \u2014 Locate question 58 and its four printed options on the page image.",
+      "image": "images/page-09.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q059",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 59 \u2014 Locate question 59 and its four printed options on the page image.",
+      "image": "images/page-09.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q060",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 60 \u2014 Locate question 60 and its four printed options on the page image.",
+      "image": "images/page-09.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q061",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 61 \u2014 Locate question 61 and its four printed options on the page image.",
+      "image": "images/page-09.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q062",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 62 \u2014 Locate question 62 and its four printed options on the page image.",
+      "image": "images/page-09.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q063",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 63 \u2014 Locate question 63 and its four printed options on the page image.",
+      "image": "images/page-09.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q064",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 64 \u2014 Locate question 64 and its four printed options on the page image.",
+      "image": "images/page-09.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q065",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 65 \u2014 Locate question 65 and its four printed options on the page image.",
+      "image": "images/page-09.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q066",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 66 \u2014 Locate question 66 and its four printed options on the page image.",
+      "image": "images/page-10.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q067",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 67 \u2014 Locate question 67 and its four printed options on the page image.",
+      "image": "images/page-10.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q068",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 68 \u2014 Locate question 68 and its four printed options on the page image.",
+      "image": "images/page-10.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q069",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 69 \u2014 Locate question 69 and its four printed options on the page image.",
+      "image": "images/page-10.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q070",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 70 \u2014 Locate question 70 and its four printed options on the page image.",
+      "image": "images/page-10.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q071",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 71 \u2014 Locate question 71 and its four printed options on the page image.",
+      "image": "images/page-10.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q072",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 72 \u2014 Locate question 72 and its four printed options on the page image.",
+      "image": "images/page-10.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q073",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 73 \u2014 Locate question 73 and its four printed options on the page image.",
+      "image": "images/page-10.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q074",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 74 \u2014 Locate question 74 and its four printed options on the page image.",
+      "image": "images/page-11.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q075",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 75 \u2014 Locate question 75 and its four printed options on the page image.",
+      "image": "images/page-11.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q076",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 76 \u2014 Locate question 76 and its four printed options on the page image.",
+      "image": "images/page-11.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q077",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 77 \u2014 Locate question 77 and its four printed options on the page image.",
+      "image": "images/page-11.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q078",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 78 \u2014 Locate question 78 and its four printed options on the page image.",
+      "image": "images/page-11.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q079",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 79 \u2014 Locate question 79 and its four printed options on the page image.",
+      "image": "images/page-11.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q080",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 80 \u2014 Locate question 80 and its four printed options on the page image.",
+      "image": "images/page-11.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q081",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 81 \u2014 Locate question 81 and its four printed options on the page image.",
+      "image": "images/page-12.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q082",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 82 \u2014 Locate question 82 and its four printed options on the page image.",
+      "image": "images/page-12.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q083",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 83 \u2014 Locate question 83 and its four printed options on the page image.",
+      "image": "images/page-12.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q084",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 84 \u2014 Locate question 84 and its four printed options on the page image.",
+      "image": "images/page-12.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q085",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 85 \u2014 Locate question 85 and its four printed options on the page image.",
+      "image": "images/page-12.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q086",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 86 \u2014 Locate question 86 and its four printed options on the page image.",
+      "image": "images/page-12.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q087",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 87 \u2014 Locate question 87 and its four printed options on the page image.",
+      "image": "images/page-12.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q088",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 88 \u2014 Locate question 88 and its four printed options on the page image.",
+      "image": "images/page-13.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q089",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 89 \u2014 Locate question 89 and its four printed options on the page image.",
+      "image": "images/page-13.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q090",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 90 \u2014 Locate question 90 and its four printed options on the page image.",
+      "image": "images/page-13.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q091",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 91 \u2014 Locate question 91 and its four printed options on the page image.",
+      "image": "images/page-13.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q092",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 92 \u2014 Locate question 92 and its four printed options on the page image.",
+      "image": "images/page-13.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q093",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 93 \u2014 Locate question 93 and its four printed options on the page image.",
+      "image": "images/page-13.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q094",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 94 \u2014 Locate question 94 and its four printed options on the page image.",
+      "image": "images/page-13.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q095",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 95 \u2014 Locate question 95 and its four printed options on the page image.",
+      "image": "images/page-14.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q096",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 96 \u2014 Locate question 96 and its four printed options on the page image.",
+      "image": "images/page-14.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q097",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 97 \u2014 Locate question 97 and its four printed options on the page image.",
+      "image": "images/page-14.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q098",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 98 \u2014 Locate question 98 and its four printed options on the page image.",
+      "image": "images/page-14.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q099",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 99 \u2014 Locate question 99 and its four printed options on the page image.",
+      "image": "images/page-14.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
+    },
+    {
+      "id": "Q100",
+      "subject": "General Knowledge & Reasoning",
+      "q": "Question 100 \u2014 Locate question 100 and its four printed options on the page image.",
+      "image": "images/page-14.jpg",
+      "opts": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": null,
+      "explanation": "Unverified: the uploaded paper contains no answer key."
     }
-  
   ]
 }
