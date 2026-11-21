@@ -1,1 +1,138 @@
-
+{
+  "title": "SSC CGL Practice Mock Test 1",
+  "durationMinutes": 20,
+  "positiveMarks": 2,
+  "negativeMarks": 0.5,
+  "questions": [
+    {
+      "id": "M01",
+      "subject": "Mathematics",
+      "q": "Calculate \\(\\frac{3}{4}+\\frac{5}{8}\\).",
+      "opts": [
+        "\\(\\frac{11}{8}\\)",
+        "\\(\\frac{8}{12}\\)",
+        "\\(\\frac{7}{8}\\)",
+        "\\(\\frac{9}{8}\\)"
+      ],
+      "correct": "A",
+      "explanation": "\\(\\frac{6}{8}+\\frac{5}{8}=\\frac{11}{8}\\)."
+    },
+    {
+      "id": "M02",
+      "subject": "Mathematics",
+      "q": "Find \\(\\sqrt{196}\\).",
+      "opts": [
+        "12",
+        "13",
+        "14",
+        "16"
+      ],
+      "correct": "C",
+      "explanation": "\\(14^2=196\\)."
+    },
+    {
+      "id": "M03",
+      "subject": "Mathematics",
+      "q": "What is 25% of 360?",
+      "opts": [
+        "80",
+        "85",
+        "90",
+        "95"
+      ],
+      "correct": "C",
+      "explanation": "360 × 25/100 = 90."
+    },
+    {
+      "id": "M04",
+      "subject": "Mathematics",
+      "q": "Solve \\(2x+7=19\\).",
+      "opts": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": "B",
+      "explanation": "\\(2x=12\\), so \\(x=6\\)."
+    },
+    {
+      "id": "R01",
+      "subject": "Reasoning",
+      "q": "Find the next number: 3, 6, 12, 24, ?",
+      "opts": [
+        "36",
+        "42",
+        "48",
+        "54"
+      ],
+      "correct": "C",
+      "explanation": "Each term is twice the preceding term."
+    },
+    {
+      "id": "R02",
+      "subject": "Reasoning",
+      "q": "If CAT is coded as DBU, how is DOG coded?",
+      "opts": [
+        "EPH",
+        "ENH",
+        "FPH",
+        "EPG"
+      ],
+      "correct": "A",
+      "explanation": "Each letter is shifted forward by one."
+    },
+    {
+      "id": "E01",
+      "subject": "English",
+      "q": "Choose the synonym of “Abundant”.",
+      "opts": [
+        "Scarce",
+        "Plentiful",
+        "Rare",
+        "Limited"
+      ],
+      "correct": "B",
+      "explanation": "Abundant means plentiful."
+    },
+    {
+      "id": "E02",
+      "subject": "English",
+      "q": "Choose the correctly spelled word.",
+      "opts": [
+        "Accomodation",
+        "Accommodation",
+        "Acommodation",
+        "Accommadation"
+      ],
+      "correct": "B",
+      "explanation": "The correct spelling is Accommodation."
+    },
+    {
+      "id": "G01",
+      "subject": "General Awareness",
+      "q": "What is the chemical symbol for sodium?",
+      "opts": [
+        "So",
+        "Na",
+        "S",
+        "N"
+      ],
+      "correct": "B",
+      "explanation": "Sodium has the symbol Na."
+    },
+    {
+      "id": "G02",
+      "subject": "General Awareness",
+      "q": "Which planet is known as the Red Planet?",
+      "opts": [
+        "Venus",
+        "Jupiter",
+        "Mars",
+        "Mercury"
+      ],
+      "correct": "C",
+      "explanation": "Mars is called the Red Planet."
+    }
+  ]
+}
