@@ -1,5 +1,5 @@
 {
-  "title": "Rakshak Sachivalya 26 September 2021 \u2014 Unverified Question Bank",
+  "title": "Rakshak Sachivalya 26 September 2021 — DEMO (Random Answers)",
   "durationMinutes": 120,
   "positiveMarks": 1,
   "negativeMarks": 0.25,
@@ -7,7 +7,7 @@
     {
       "id": "Q001",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 1 \u2014 Locate question 1 and its four printed options on the page image.",
+      "q": "Question 1 — Locate question 1 and its four printed options on the page image.",
       "image": "images/page-03.jpg",
       "opts": [
         "A",
@@ -15,13 +15,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q002",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 2 \u2014 Locate question 2 and its four printed options on the page image.",
+      "q": "Question 2 — Locate question 2 and its four printed options on the page image.",
       "image": "images/page-03.jpg",
       "opts": [
         "A",
@@ -29,13 +29,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "D",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q003",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 3 \u2014 Locate question 3 and its four printed options on the page image.",
+      "q": "Question 3 — Locate question 3 and its four printed options on the page image.",
       "image": "images/page-03.jpg",
       "opts": [
         "A",
@@ -43,13 +43,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q004",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 4 \u2014 Locate question 4 and its four printed options on the page image.",
+      "q": "Question 4 — Locate question 4 and its four printed options on the page image.",
       "image": "images/page-03.jpg",
       "opts": [
         "A",
@@ -57,13 +57,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q005",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 5 \u2014 Locate question 5 and its four printed options on the page image.",
+      "q": "Question 5 — Locate question 5 and its four printed options on the page image.",
       "image": "images/page-03.jpg",
       "opts": [
         "A",
@@ -71,13 +71,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "A",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q006",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 6 \u2014 Locate question 6 and its four printed options on the page image.",
+      "q": "Question 6 — Locate question 6 and its four printed options on the page image.",
       "image": "images/page-03.jpg",
       "opts": [
         "A",
@@ -85,13 +85,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "A",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q007",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 7 \u2014 Locate question 7 and its four printed options on the page image.",
+      "q": "Question 7 — Locate question 7 and its four printed options on the page image.",
       "image": "images/page-03.jpg",
       "opts": [
         "A",
@@ -99,13 +99,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "D",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q008",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 8 \u2014 Locate question 8 and its four printed options on the page image.",
+      "q": "Question 8 — Locate question 8 and its four printed options on the page image.",
       "image": "images/page-03.jpg",
       "opts": [
         "A",
@@ -113,13 +113,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "A",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q009",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 9 \u2014 Locate question 9 and its four printed options on the page image.",
+      "q": "Question 9 — Locate question 9 and its four printed options on the page image.",
       "image": "images/page-03.jpg",
       "opts": [
         "A",
@@ -127,13 +127,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q010",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 10 \u2014 Locate question 10 and its four printed options on the page image.",
+      "q": "Question 10 — Locate question 10 and its four printed options on the page image.",
       "image": "images/page-03.jpg",
       "opts": [
         "A",
@@ -141,13 +141,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q011",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 11 \u2014 Locate question 11 and its four printed options on the page image.",
+      "q": "Question 11 — Locate question 11 and its four printed options on the page image.",
       "image": "images/page-03.jpg",
       "opts": [
         "A",
@@ -155,13 +155,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q012",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 12 \u2014 Locate question 12 and its four printed options on the page image.",
+      "q": "Question 12 — Locate question 12 and its four printed options on the page image.",
       "image": "images/page-03.jpg",
       "opts": [
         "A",
@@ -169,13 +169,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q013",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 13 \u2014 Locate question 13 and its four printed options on the page image.",
+      "q": "Question 13 — Locate question 13 and its four printed options on the page image.",
       "image": "images/page-03.jpg",
       "opts": [
         "A",
@@ -183,13 +183,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "A",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q014",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 14 \u2014 Locate question 14 and its four printed options on the page image.",
+      "q": "Question 14 — Locate question 14 and its four printed options on the page image.",
       "image": "images/page-03.jpg",
       "opts": [
         "A",
@@ -197,13 +197,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q015",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 15 \u2014 Locate question 15 and its four printed options on the page image.",
+      "q": "Question 15 — Locate question 15 and its four printed options on the page image.",
       "image": "images/page-03.jpg",
       "opts": [
         "A",
@@ -211,13 +211,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q016",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 16 \u2014 Locate question 16 and its four printed options on the page image.",
+      "q": "Question 16 — Locate question 16 and its four printed options on the page image.",
       "image": "images/page-03.jpg",
       "opts": [
         "A",
@@ -225,13 +225,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "D",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q017",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 17 \u2014 Locate question 17 and its four printed options on the page image.",
+      "q": "Question 17 — Locate question 17 and its four printed options on the page image.",
       "image": "images/page-04.jpg",
       "opts": [
         "A",
@@ -239,13 +239,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q018",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 18 \u2014 Locate question 18 and its four printed options on the page image.",
+      "q": "Question 18 — Locate question 18 and its four printed options on the page image.",
       "image": "images/page-04.jpg",
       "opts": [
         "A",
@@ -253,13 +253,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "A",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q019",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 19 \u2014 Locate question 19 and its four printed options on the page image.",
+      "q": "Question 19 — Locate question 19 and its four printed options on the page image.",
       "image": "images/page-04.jpg",
       "opts": [
         "A",
@@ -267,13 +267,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "A",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q020",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 20 \u2014 Locate question 20 and its four printed options on the page image.",
+      "q": "Question 20 — Locate question 20 and its four printed options on the page image.",
       "image": "images/page-04.jpg",
       "opts": [
         "A",
@@ -281,13 +281,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q021",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 21 \u2014 Locate question 21 and its four printed options on the page image.",
+      "q": "Question 21 — Locate question 21 and its four printed options on the page image.",
       "image": "images/page-04.jpg",
       "opts": [
         "A",
@@ -295,13 +295,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q022",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 22 \u2014 Locate question 22 and its four printed options on the page image.",
+      "q": "Question 22 — Locate question 22 and its four printed options on the page image.",
       "image": "images/page-04.jpg",
       "opts": [
         "A",
@@ -309,13 +309,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "A",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q023",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 23 \u2014 Locate question 23 and its four printed options on the page image.",
+      "q": "Question 23 — Locate question 23 and its four printed options on the page image.",
       "image": "images/page-04.jpg",
       "opts": [
         "A",
@@ -323,13 +323,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q024",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 24 \u2014 Locate question 24 and its four printed options on the page image.",
+      "q": "Question 24 — Locate question 24 and its four printed options on the page image.",
       "image": "images/page-04.jpg",
       "opts": [
         "A",
@@ -337,13 +337,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "D",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q025",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 25 \u2014 Locate question 25 and its four printed options on the page image.",
+      "q": "Question 25 — Locate question 25 and its four printed options on the page image.",
       "image": "images/page-04.jpg",
       "opts": [
         "A",
@@ -351,13 +351,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q026",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 26 \u2014 Locate question 26 and its four printed options on the page image.",
+      "q": "Question 26 — Locate question 26 and its four printed options on the page image.",
       "image": "images/page-05.jpg",
       "opts": [
         "A",
@@ -365,13 +365,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q027",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 27 \u2014 Locate question 27 and its four printed options on the page image.",
+      "q": "Question 27 — Locate question 27 and its four printed options on the page image.",
       "image": "images/page-05.jpg",
       "opts": [
         "A",
@@ -379,13 +379,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q028",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 28 \u2014 Locate question 28 and its four printed options on the page image.",
+      "q": "Question 28 — Locate question 28 and its four printed options on the page image.",
       "image": "images/page-05.jpg",
       "opts": [
         "A",
@@ -393,13 +393,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q029",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 29 \u2014 Locate question 29 and its four printed options on the page image.",
+      "q": "Question 29 — Locate question 29 and its four printed options on the page image.",
       "image": "images/page-05.jpg",
       "opts": [
         "A",
@@ -407,13 +407,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q030",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 30 \u2014 Locate question 30 and its four printed options on the page image.",
+      "q": "Question 30 — Locate question 30 and its four printed options on the page image.",
       "image": "images/page-05.jpg",
       "opts": [
         "A",
@@ -421,13 +421,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q031",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 31 \u2014 Locate question 31 and its four printed options on the page image.",
+      "q": "Question 31 — Locate question 31 and its four printed options on the page image.",
       "image": "images/page-05.jpg",
       "opts": [
         "A",
@@ -435,13 +435,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q032",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 32 \u2014 Locate question 32 and its four printed options on the page image.",
+      "q": "Question 32 — Locate question 32 and its four printed options on the page image.",
       "image": "images/page-05.jpg",
       "opts": [
         "A",
@@ -449,13 +449,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q033",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 33 \u2014 Locate question 33 and its four printed options on the page image.",
+      "q": "Question 33 — Locate question 33 and its four printed options on the page image.",
       "image": "images/page-05.jpg",
       "opts": [
         "A",
@@ -463,13 +463,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "A",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q034",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 34 \u2014 Locate question 34 and its four printed options on the page image.",
+      "q": "Question 34 — Locate question 34 and its four printed options on the page image.",
       "image": "images/page-06.jpg",
       "opts": [
         "A",
@@ -477,13 +477,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q035",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 35 \u2014 Locate question 35 and its four printed options on the page image.",
+      "q": "Question 35 — Locate question 35 and its four printed options on the page image.",
       "image": "images/page-06.jpg",
       "opts": [
         "A",
@@ -491,13 +491,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "A",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q036",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 36 \u2014 Locate question 36 and its four printed options on the page image.",
+      "q": "Question 36 — Locate question 36 and its four printed options on the page image.",
       "image": "images/page-06.jpg",
       "opts": [
         "A",
@@ -505,13 +505,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q037",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 37 \u2014 Locate question 37 and its four printed options on the page image.",
+      "q": "Question 37 — Locate question 37 and its four printed options on the page image.",
       "image": "images/page-06.jpg",
       "opts": [
         "A",
@@ -519,13 +519,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q038",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 38 \u2014 Locate question 38 and its four printed options on the page image.",
+      "q": "Question 38 — Locate question 38 and its four printed options on the page image.",
       "image": "images/page-06.jpg",
       "opts": [
         "A",
@@ -533,13 +533,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q039",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 39 \u2014 Locate question 39 and its four printed options on the page image.",
+      "q": "Question 39 — Locate question 39 and its four printed options on the page image.",
       "image": "images/page-06.jpg",
       "opts": [
         "A",
@@ -547,13 +547,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "D",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q040",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 40 \u2014 Locate question 40 and its four printed options on the page image.",
+      "q": "Question 40 — Locate question 40 and its four printed options on the page image.",
       "image": "images/page-06.jpg",
       "opts": [
         "A",
@@ -561,13 +561,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "D",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q041",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 41 \u2014 Locate question 41 and its four printed options on the page image.",
+      "q": "Question 41 — Locate question 41 and its four printed options on the page image.",
       "image": "images/page-06.jpg",
       "opts": [
         "A",
@@ -575,13 +575,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q042",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 42 \u2014 Locate question 42 and its four printed options on the page image.",
+      "q": "Question 42 — Locate question 42 and its four printed options on the page image.",
       "image": "images/page-07.jpg",
       "opts": [
         "A",
@@ -589,13 +589,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "D",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q043",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 43 \u2014 Locate question 43 and its four printed options on the page image.",
+      "q": "Question 43 — Locate question 43 and its four printed options on the page image.",
       "image": "images/page-07.jpg",
       "opts": [
         "A",
@@ -603,13 +603,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "D",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q044",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 44 \u2014 Locate question 44 and its four printed options on the page image.",
+      "q": "Question 44 — Locate question 44 and its four printed options on the page image.",
       "image": "images/page-07.jpg",
       "opts": [
         "A",
@@ -617,13 +617,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q045",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 45 \u2014 Locate question 45 and its four printed options on the page image.",
+      "q": "Question 45 — Locate question 45 and its four printed options on the page image.",
       "image": "images/page-07.jpg",
       "opts": [
         "A",
@@ -631,13 +631,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "A",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q046",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 46 \u2014 Locate question 46 and its four printed options on the page image.",
+      "q": "Question 46 — Locate question 46 and its four printed options on the page image.",
       "image": "images/page-07.jpg",
       "opts": [
         "A",
@@ -645,13 +645,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q047",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 47 \u2014 Locate question 47 and its four printed options on the page image.",
+      "q": "Question 47 — Locate question 47 and its four printed options on the page image.",
       "image": "images/page-07.jpg",
       "opts": [
         "A",
@@ -659,13 +659,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q048",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 48 \u2014 Locate question 48 and its four printed options on the page image.",
+      "q": "Question 48 — Locate question 48 and its four printed options on the page image.",
       "image": "images/page-07.jpg",
       "opts": [
         "A",
@@ -673,13 +673,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q049",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 49 \u2014 Locate question 49 and its four printed options on the page image.",
+      "q": "Question 49 — Locate question 49 and its four printed options on the page image.",
       "image": "images/page-07.jpg",
       "opts": [
         "A",
@@ -687,13 +687,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q050",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 50 \u2014 Locate question 50 and its four printed options on the page image.",
+      "q": "Question 50 — Locate question 50 and its four printed options on the page image.",
       "image": "images/page-08.jpg",
       "opts": [
         "A",
@@ -701,13 +701,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "D",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q051",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 51 \u2014 Locate question 51 and its four printed options on the page image.",
+      "q": "Question 51 — Locate question 51 and its four printed options on the page image.",
       "image": "images/page-08.jpg",
       "opts": [
         "A",
@@ -715,13 +715,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "D",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q052",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 52 \u2014 Locate question 52 and its four printed options on the page image.",
+      "q": "Question 52 — Locate question 52 and its four printed options on the page image.",
       "image": "images/page-08.jpg",
       "opts": [
         "A",
@@ -729,13 +729,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q053",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 53 \u2014 Locate question 53 and its four printed options on the page image.",
+      "q": "Question 53 — Locate question 53 and its four printed options on the page image.",
       "image": "images/page-08.jpg",
       "opts": [
         "A",
@@ -743,13 +743,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "D",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q054",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 54 \u2014 Locate question 54 and its four printed options on the page image.",
+      "q": "Question 54 — Locate question 54 and its four printed options on the page image.",
       "image": "images/page-08.jpg",
       "opts": [
         "A",
@@ -757,13 +757,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "D",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q055",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 55 \u2014 Locate question 55 and its four printed options on the page image.",
+      "q": "Question 55 — Locate question 55 and its four printed options on the page image.",
       "image": "images/page-08.jpg",
       "opts": [
         "A",
@@ -771,13 +771,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "A",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q056",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 56 \u2014 Locate question 56 and its four printed options on the page image.",
+      "q": "Question 56 — Locate question 56 and its four printed options on the page image.",
       "image": "images/page-08.jpg",
       "opts": [
         "A",
@@ -785,13 +785,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "A",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q057",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 57 \u2014 Locate question 57 and its four printed options on the page image.",
+      "q": "Question 57 — Locate question 57 and its four printed options on the page image.",
       "image": "images/page-08.jpg",
       "opts": [
         "A",
@@ -799,13 +799,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "A",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q058",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 58 \u2014 Locate question 58 and its four printed options on the page image.",
+      "q": "Question 58 — Locate question 58 and its four printed options on the page image.",
       "image": "images/page-09.jpg",
       "opts": [
         "A",
@@ -813,13 +813,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q059",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 59 \u2014 Locate question 59 and its four printed options on the page image.",
+      "q": "Question 59 — Locate question 59 and its four printed options on the page image.",
       "image": "images/page-09.jpg",
       "opts": [
         "A",
@@ -827,13 +827,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "D",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q060",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 60 \u2014 Locate question 60 and its four printed options on the page image.",
+      "q": "Question 60 — Locate question 60 and its four printed options on the page image.",
       "image": "images/page-09.jpg",
       "opts": [
         "A",
@@ -841,13 +841,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q061",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 61 \u2014 Locate question 61 and its four printed options on the page image.",
+      "q": "Question 61 — Locate question 61 and its four printed options on the page image.",
       "image": "images/page-09.jpg",
       "opts": [
         "A",
@@ -855,13 +855,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "D",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q062",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 62 \u2014 Locate question 62 and its four printed options on the page image.",
+      "q": "Question 62 — Locate question 62 and its four printed options on the page image.",
       "image": "images/page-09.jpg",
       "opts": [
         "A",
@@ -869,13 +869,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q063",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 63 \u2014 Locate question 63 and its four printed options on the page image.",
+      "q": "Question 63 — Locate question 63 and its four printed options on the page image.",
       "image": "images/page-09.jpg",
       "opts": [
         "A",
@@ -883,13 +883,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q064",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 64 \u2014 Locate question 64 and its four printed options on the page image.",
+      "q": "Question 64 — Locate question 64 and its four printed options on the page image.",
       "image": "images/page-09.jpg",
       "opts": [
         "A",
@@ -897,13 +897,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "A",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q065",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 65 \u2014 Locate question 65 and its four printed options on the page image.",
+      "q": "Question 65 — Locate question 65 and its four printed options on the page image.",
       "image": "images/page-09.jpg",
       "opts": [
         "A",
@@ -911,13 +911,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "A",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q066",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 66 \u2014 Locate question 66 and its four printed options on the page image.",
+      "q": "Question 66 — Locate question 66 and its four printed options on the page image.",
       "image": "images/page-10.jpg",
       "opts": [
         "A",
@@ -925,13 +925,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q067",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 67 \u2014 Locate question 67 and its four printed options on the page image.",
+      "q": "Question 67 — Locate question 67 and its four printed options on the page image.",
       "image": "images/page-10.jpg",
       "opts": [
         "A",
@@ -939,13 +939,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "A",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q068",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 68 \u2014 Locate question 68 and its four printed options on the page image.",
+      "q": "Question 68 — Locate question 68 and its four printed options on the page image.",
       "image": "images/page-10.jpg",
       "opts": [
         "A",
@@ -953,13 +953,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q069",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 69 \u2014 Locate question 69 and its four printed options on the page image.",
+      "q": "Question 69 — Locate question 69 and its four printed options on the page image.",
       "image": "images/page-10.jpg",
       "opts": [
         "A",
@@ -967,13 +967,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q070",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 70 \u2014 Locate question 70 and its four printed options on the page image.",
+      "q": "Question 70 — Locate question 70 and its four printed options on the page image.",
       "image": "images/page-10.jpg",
       "opts": [
         "A",
@@ -981,13 +981,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q071",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 71 \u2014 Locate question 71 and its four printed options on the page image.",
+      "q": "Question 71 — Locate question 71 and its four printed options on the page image.",
       "image": "images/page-10.jpg",
       "opts": [
         "A",
@@ -995,13 +995,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q072",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 72 \u2014 Locate question 72 and its four printed options on the page image.",
+      "q": "Question 72 — Locate question 72 and its four printed options on the page image.",
       "image": "images/page-10.jpg",
       "opts": [
         "A",
@@ -1009,13 +1009,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "D",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q073",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 73 \u2014 Locate question 73 and its four printed options on the page image.",
+      "q": "Question 73 — Locate question 73 and its four printed options on the page image.",
       "image": "images/page-10.jpg",
       "opts": [
         "A",
@@ -1023,13 +1023,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q074",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 74 \u2014 Locate question 74 and its four printed options on the page image.",
+      "q": "Question 74 — Locate question 74 and its four printed options on the page image.",
       "image": "images/page-11.jpg",
       "opts": [
         "A",
@@ -1037,13 +1037,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "D",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q075",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 75 \u2014 Locate question 75 and its four printed options on the page image.",
+      "q": "Question 75 — Locate question 75 and its four printed options on the page image.",
       "image": "images/page-11.jpg",
       "opts": [
         "A",
@@ -1051,13 +1051,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q076",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 76 \u2014 Locate question 76 and its four printed options on the page image.",
+      "q": "Question 76 — Locate question 76 and its four printed options on the page image.",
       "image": "images/page-11.jpg",
       "opts": [
         "A",
@@ -1065,13 +1065,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q077",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 77 \u2014 Locate question 77 and its four printed options on the page image.",
+      "q": "Question 77 — Locate question 77 and its four printed options on the page image.",
       "image": "images/page-11.jpg",
       "opts": [
         "A",
@@ -1079,13 +1079,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q078",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 78 \u2014 Locate question 78 and its four printed options on the page image.",
+      "q": "Question 78 — Locate question 78 and its four printed options on the page image.",
       "image": "images/page-11.jpg",
       "opts": [
         "A",
@@ -1093,13 +1093,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q079",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 79 \u2014 Locate question 79 and its four printed options on the page image.",
+      "q": "Question 79 — Locate question 79 and its four printed options on the page image.",
       "image": "images/page-11.jpg",
       "opts": [
         "A",
@@ -1107,13 +1107,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q080",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 80 \u2014 Locate question 80 and its four printed options on the page image.",
+      "q": "Question 80 — Locate question 80 and its four printed options on the page image.",
       "image": "images/page-11.jpg",
       "opts": [
         "A",
@@ -1121,13 +1121,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "D",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q081",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 81 \u2014 Locate question 81 and its four printed options on the page image.",
+      "q": "Question 81 — Locate question 81 and its four printed options on the page image.",
       "image": "images/page-12.jpg",
       "opts": [
         "A",
@@ -1135,13 +1135,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q082",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 82 \u2014 Locate question 82 and its four printed options on the page image.",
+      "q": "Question 82 — Locate question 82 and its four printed options on the page image.",
       "image": "images/page-12.jpg",
       "opts": [
         "A",
@@ -1149,13 +1149,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "D",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q083",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 83 \u2014 Locate question 83 and its four printed options on the page image.",
+      "q": "Question 83 — Locate question 83 and its four printed options on the page image.",
       "image": "images/page-12.jpg",
       "opts": [
         "A",
@@ -1163,13 +1163,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q084",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 84 \u2014 Locate question 84 and its four printed options on the page image.",
+      "q": "Question 84 — Locate question 84 and its four printed options on the page image.",
       "image": "images/page-12.jpg",
       "opts": [
         "A",
@@ -1177,13 +1177,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "A",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q085",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 85 \u2014 Locate question 85 and its four printed options on the page image.",
+      "q": "Question 85 — Locate question 85 and its four printed options on the page image.",
       "image": "images/page-12.jpg",
       "opts": [
         "A",
@@ -1191,13 +1191,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q086",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 86 \u2014 Locate question 86 and its four printed options on the page image.",
+      "q": "Question 86 — Locate question 86 and its four printed options on the page image.",
       "image": "images/page-12.jpg",
       "opts": [
         "A",
@@ -1205,13 +1205,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q087",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 87 \u2014 Locate question 87 and its four printed options on the page image.",
+      "q": "Question 87 — Locate question 87 and its four printed options on the page image.",
       "image": "images/page-12.jpg",
       "opts": [
         "A",
@@ -1219,13 +1219,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q088",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 88 \u2014 Locate question 88 and its four printed options on the page image.",
+      "q": "Question 88 — Locate question 88 and its four printed options on the page image.",
       "image": "images/page-13.jpg",
       "opts": [
         "A",
@@ -1233,13 +1233,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q089",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 89 \u2014 Locate question 89 and its four printed options on the page image.",
+      "q": "Question 89 — Locate question 89 and its four printed options on the page image.",
       "image": "images/page-13.jpg",
       "opts": [
         "A",
@@ -1247,13 +1247,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "A",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q090",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 90 \u2014 Locate question 90 and its four printed options on the page image.",
+      "q": "Question 90 — Locate question 90 and its four printed options on the page image.",
       "image": "images/page-13.jpg",
       "opts": [
         "A",
@@ -1261,13 +1261,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q091",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 91 \u2014 Locate question 91 and its four printed options on the page image.",
+      "q": "Question 91 — Locate question 91 and its four printed options on the page image.",
       "image": "images/page-13.jpg",
       "opts": [
         "A",
@@ -1275,13 +1275,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "D",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q092",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 92 \u2014 Locate question 92 and its four printed options on the page image.",
+      "q": "Question 92 — Locate question 92 and its four printed options on the page image.",
       "image": "images/page-13.jpg",
       "opts": [
         "A",
@@ -1289,13 +1289,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q093",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 93 \u2014 Locate question 93 and its four printed options on the page image.",
+      "q": "Question 93 — Locate question 93 and its four printed options on the page image.",
       "image": "images/page-13.jpg",
       "opts": [
         "A",
@@ -1303,13 +1303,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q094",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 94 \u2014 Locate question 94 and its four printed options on the page image.",
+      "q": "Question 94 — Locate question 94 and its four printed options on the page image.",
       "image": "images/page-13.jpg",
       "opts": [
         "A",
@@ -1317,13 +1317,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q095",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 95 \u2014 Locate question 95 and its four printed options on the page image.",
+      "q": "Question 95 — Locate question 95 and its four printed options on the page image.",
       "image": "images/page-14.jpg",
       "opts": [
         "A",
@@ -1331,13 +1331,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "D",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q096",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 96 \u2014 Locate question 96 and its four printed options on the page image.",
+      "q": "Question 96 — Locate question 96 and its four printed options on the page image.",
       "image": "images/page-14.jpg",
       "opts": [
         "A",
@@ -1345,13 +1345,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "D",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q097",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 97 \u2014 Locate question 97 and its four printed options on the page image.",
+      "q": "Question 97 — Locate question 97 and its four printed options on the page image.",
       "image": "images/page-14.jpg",
       "opts": [
         "A",
@@ -1359,13 +1359,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "D",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q098",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 98 \u2014 Locate question 98 and its four printed options on the page image.",
+      "q": "Question 98 — Locate question 98 and its four printed options on the page image.",
       "image": "images/page-14.jpg",
       "opts": [
         "A",
@@ -1373,13 +1373,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q099",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 99 \u2014 Locate question 99 and its four printed options on the page image.",
+      "q": "Question 99 — Locate question 99 and its four printed options on the page image.",
       "image": "images/page-14.jpg",
       "opts": [
         "A",
@@ -1387,13 +1387,13 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "C",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     },
     {
       "id": "Q100",
       "subject": "General Knowledge & Reasoning",
-      "q": "Question 100 \u2014 Locate question 100 and its four printed options on the page image.",
+      "q": "Question 100 — Locate question 100 and its four printed options on the page image.",
       "image": "images/page-14.jpg",
       "opts": [
         "A",
@@ -1401,8 +1401,8 @@
         "C",
         "D"
       ],
-      "correct": null,
-      "explanation": "Unverified: the uploaded paper contains no answer key."
+      "correct": "B",
+      "explanation": "TEST DATA ONLY: Correct answer was assigned randomly and is not verified against an answer key. Refer to the scanned paper for the question and options."
     }
   ]
 }
