@@ -107,32 +107,7 @@
       ],
       "correct": "B",
       "explanation": "The correct spelling is Accommodation."
-    },
-    {
-      "id": "G01",
-      "subject": "General Awareness",
-      "q": "What is the chemical symbol for sodium?",
-      "opts": [
-        "So",
-        "Na",
-        "S",
-        "N"
-      ],
-      "correct": "B",
-      "explanation": "Sodium has the symbol Na."
-    },
-    {
-      "id": "G02",
-      "subject": "General Awareness",
-      "q": "Which planet is known as the Red Planet?",
-      "opts": [
-        "Venus",
-        "Jupiter",
-        "Mars",
-        "Mercury"
-      ],
-      "correct": "C",
-      "explanation": "Mars is called the Red Planet."
     }
+  
   ]
 }
